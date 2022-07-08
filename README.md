@@ -1,4 +1,4 @@
-# _-Shellnium-_ ShellでSeleniumを試す✅ 
+# _-Shellnium-_  ShellScriptでSeleniumを試す✅ 
 
 
 ### Pre-Requisite

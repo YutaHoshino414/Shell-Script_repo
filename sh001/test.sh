@@ -11,9 +11,6 @@ main() {
     send_keys $searchBox "タピオカ\n"
 }
 
-#curl:  -H (:request header)
-#       'Content-Type: application/json' (:送信するデータがJSON形式であることを明示)
-#       -d (データ)
 get_session_id() {
     curl -s -X POST -H 'Content-Type: application/json' \
         -d '{
