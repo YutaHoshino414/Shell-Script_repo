@@ -3,11 +3,13 @@
 
 ### Pre-Requisite
 
-*install & activate chromedriver
+*install & activate ChromeDriver
 ```
 $ chromedriver
 ```
-*jq command installed
+starting it on port 9515: `http://localhost:9515`
+
+*required jq command installed
 ```
 $ brew install jq
 ```

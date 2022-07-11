@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# start chromedriver(これでもchromedriver立ち上がる)
+chromedriver &
+sleep 1
+
 main() {
     # Googleのトップページに遷移
     navigate_to 'https://google.co.jp'
