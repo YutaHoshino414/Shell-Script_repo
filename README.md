@@ -7,7 +7,7 @@
 ```
 $ chromedriver
 ```
-starting it on port 9515: `http://localhost:9515`
+ \*start it on port 9515: `http://localhost:9515`
 
 *required jq command installed
 ```
